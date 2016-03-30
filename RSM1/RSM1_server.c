@@ -1,4 +1,7 @@
-
+/*
+Author: Venkata Kasi Viswanath Yeleswarapu
+Lanugage: Developed in C using RPC middleware
+*/
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
