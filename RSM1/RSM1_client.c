@@ -1,4 +1,7 @@
-
+/*
+Author: Venkata Kasi Viswanath Yeleswarapu
+Lanugage: Developed in C using RPC middleware
+*/
 #include "RSM1.h"
 #include <stdio.h>
 #include <string.h>
